@@ -1,5 +1,5 @@
 import React from "react";
-import Sidebar from "../../../Components/base/Layout/Sidebar";
+import Sidebar from "../../../components/base/Layout/Sidebar";
 import UserListing from "../../../components/Conversations/userListing";
 import Conversation from "../../../components/Conversations/Conversation";
 import SenderProfile from "../../../components/Conversations/senderProfile";
